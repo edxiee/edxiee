@@ -35,8 +35,7 @@ I'm an Information Technology student who enjoys building practical software sol
 * Supabase
 * MySQL
 * PostgreSQL
-* Oracle Database
-
+  
 ### Tools & Technologies
 
 * Git
