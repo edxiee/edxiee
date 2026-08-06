@@ -6,7 +6,7 @@ I'm an Information Technology student who enjoys building practical software sol
 
 * 🎓 BS Information Technology Student
 * 🌱 Currently learning full-stack development, mobile development, and cybersecurity
-* 💡 Interested in software engineering, UI/UX design, and cloud technologies
+* 💡 Interested in software engineering, UI/UX design, and cybersecurity
 * 🚀 Always looking for opportunities to learn and build meaningful projects
 
 ---
