@@ -38,12 +38,6 @@
 ![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![Ed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=dark)
-
 ## 📚 Currently Learning:
 
 * 🔥 Advanced Flutter Development
